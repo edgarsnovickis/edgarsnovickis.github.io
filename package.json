@@ -1,0 +1,13 @@
+{
+  "name": "edgarsnovickis.github.io",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "index.html",
+  "repository": "git@github.com:edgarsnovickis/edgarsnovickis.github.io.git",
+  "author": "Edgars Novickis <novickiseds@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
